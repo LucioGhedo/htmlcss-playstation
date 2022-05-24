@@ -161,3 +161,22 @@ main {
     color: white;
     padding-bottom: 50px;
 }
+/* ps plus */
+.ps_plus {
+    background-color: #bebcbb;
+    padding-bottom: 40px;
+}
+.ps-plus-logo {
+    padding: 40px 0;
+    width: 45%;
+}
+.grey_btn {
+    color: #3e6fe5;
+    background-color: #d9dadc;
+}
+/* MEDIAQUERY PSPLUS SECTION */
+@media all and (min-width: 768px) {
+    .ps_plus {
+        padding-bottom: 0;
+    }
+}

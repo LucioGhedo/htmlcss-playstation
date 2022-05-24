@@ -108,6 +108,7 @@ main {
 .ms_jumbo {
     background-image: url("../img/jumbo-bg.png");
     background-position: center;
+    background-repeat: no-repeat;
     color: white;
     padding-bottom: 20px;
 }

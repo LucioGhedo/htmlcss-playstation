@@ -58,10 +58,17 @@ h2 {
 .opacity {
     filter: opacity(70%);
 }
+.width_60 {
+    width: 60%;
+}
+.weight {
+    font-weight: 700;
+}
 /* HEADER */
 
 /* header top */
 header {
+    z-index: 99;
     position: fixed;
     width: 100%;
     font-family: Helvetica, arial, sans-serif;
@@ -79,6 +86,9 @@ header {
 .header_bottom {
     height: 80px;
     background-color: white;
+}
+.header_bottom img {
+    width: 70px;
 }
 .ms_height {
     height: 100%;
@@ -132,4 +142,19 @@ main {
 /* console play5 section */
 .ms_border {
     border-bottom: solid blue 1px;
+}
+/* it takes two section */
+.takes {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+/* nuove uscite section */
+.new_arrival {
+    background-color: #1f1f1f;
+    color: white;
+    padding-bottom: 50px;
 }

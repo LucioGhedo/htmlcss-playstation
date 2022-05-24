@@ -21,6 +21,9 @@ a:hover {
 body {
     font-family: Arial, sans-serif;
 }
+img {
+    width: 100%;
+}
 /* COMMON */
 .ms_btn {
     background-color: #363636;
@@ -31,7 +34,12 @@ body {
 .ms_btn_red {
     background-color: #cd3d0f;
 }
-
+.padding {
+    padding: 50px 0;
+}
+.border_radius {
+    border-radius: 20px;
+}
 /* HEADER */
 
 /* header top */

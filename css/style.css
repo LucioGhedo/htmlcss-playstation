@@ -37,6 +37,11 @@ img {
 .ms_btn_red {
     background-color: #cd3d0f;
 }
+.white_btn {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+}
 .ms_btn_blue {
     background-color: blue;
     padding: 10px 20px;
@@ -66,6 +71,9 @@ h2 {
 }
 .weight {
     font-weight: 700;
+}
+.white {
+    color: white;
 }
 /* HEADER */
 
@@ -173,6 +181,24 @@ main {
 .grey_btn {
     color: #3e6fe5;
     background-color: #d9dadc;
+}
+/* nuovi sconti section */
+.sconti h2 {
+    padding-top: 40px;
+}
+/* ps now section */
+.ps_now {
+    margin-top: 20px;
+    background-color: #161c3b;
+    padding-bottom: 20px;
+}
+.ps-now-logo {
+    padding: 40px 0;
+    width: 45%;
+}
+/* social section */
+.social {
+    padding: 20px 0;
 }
 /* MEDIAQUERY PSPLUS SECTION */
 @media all and (min-width: 768px) {

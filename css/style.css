@@ -33,6 +33,7 @@ img {
     color: white;
     padding: 5px 20px;
     border-radius: 30px;
+    border: none;
 }
 .ms_btn_red {
     background-color: #cd3d0f;
@@ -95,40 +96,10 @@ header {
     width: 6.2rem;
     padding: 10px;
 }
-
 /* header bottom */
-.header_bottom {
-    height: 80px;
-    background-color: white;
+.lens {
+    width: 30px;
 }
-.header_bottom img {
-    width: 70px;
-}
-.ms_height {
-    height: 100%;
-}
-.menu_burger {
-    font-size: 30px;
-    color: grey;
-    padding: 5px;
-    border: solid grey 1px;
-}
-.ms_list {
-    display: flex;
-    font-size: 16px;
-    margin-bottom: 0;
-}
-.ms_list_end {
-    justify-content: flex-end;
-}
-li > i {
-    font-size: 12px;
-    color: grey;
-}
-.ms_list li {
-    padding: 0 10px;
-}
-
 /* MAIN */
 main {
     padding-top: 100px;
@@ -137,7 +108,6 @@ main {
 .ms_jumbo {
     background-image: url("../img/jumbo-bg.png");
     background-position: center;
-    background-repeat: no-repeat;
     color: white;
     padding-bottom: 20px;
 }

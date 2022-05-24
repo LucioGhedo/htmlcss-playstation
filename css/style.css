@@ -86,12 +86,13 @@ main {
 .ms_jumbo {
     background-image: url("../img/jumbo-bg.png");
     background-position: center;
+    background-repeat: no-repeat;
     color: white;
     padding-bottom: 20px;
 }
 .logo_returnal {
     width: 50%;
-    padding-top: 250px;
+    padding-top: 200px;
     padding-bottom: 50px;
 }
 .jumbo_title {

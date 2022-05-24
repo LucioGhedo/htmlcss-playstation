@@ -40,6 +40,14 @@ img {
 .border_radius {
     border-radius: 20px;
 }
+.blue {
+    color: #3891d9;
+    font-weight: 600;
+}
+.grey {
+    color: grey;
+    font-weight: 700;
+}
 /* HEADER */
 
 /* header top */

@@ -24,6 +24,9 @@ body {
 img {
     width: 100%;
 }
+.card {
+    border: none;
+}
 /* COMMON */
 .ms_btn {
     background-color: #363636;

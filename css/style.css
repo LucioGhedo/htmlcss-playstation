@@ -120,6 +120,7 @@ main {
 }
 /* jumbotron */
 .ms_jumbo {
+    background-color: #000606;
     background-image: url("../img/jumbo-bg.png");
     background-position: center;
     background-repeat: no-repeat;

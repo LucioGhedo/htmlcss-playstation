@@ -221,7 +221,8 @@ footer img {
 
 /* HOVER BONUS */
 .ms_btn:hover {
-    border: solid black 3px;
+    outline: 2px solid white;
+    outline-offset: -4px;
 }
 .ms_hover:hover {
     border-bottom: solid 1px blue;
